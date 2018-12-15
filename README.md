@@ -100,45 +100,37 @@ To get voters to vote, you will need to place ballot boxes. These ballot boxes a
 
 ### Atomic Behaviours
 
-Voters 
+## Voters 
 
 -> Drop yellow tie (randomly).
 
--> Move to urn and vote.
+-> Move to urn and vote. Give player democracy points.
 
--> Run away from Riots.
+-> Go to exit.
 
-Elders
+## Fascist
 
--> Drop yellow tie (randomly).
+-> Run and break urns. That makes player loose yellow ties and democracy points.
 
--> Move to urn and vote.
+-> Run away.
 
--> Run away from Riots (slower than normal voters).
+## Riot Police
 
--> Hit Riots with purse/bag.
+-> Destroy structures or scarecrowns(dummy). They comes in hordes.
 
-Fascist
+-> Go away.
 
--> Stole yellow ties.
+## Democracy Police
 
--> Destroy structures (urns).
+-> Path arround until they see a fascist.
 
-Riot Police
+-> Pursue fascist.
 
--> Destroy structures.
+-> Hit Fascists.
 
--> Hit voters/elders.
+Roombas
 
-Democracy Police
-
--> Hit Riot police
-
--> Hit Fascists
-
-Farmers
-
--> Collects yellow ties
+-> Collects yellow ties (on an area).
 
 ### Player Influence
 
