@@ -1,6 +1,6 @@
 # 1-0 Tycoon
 
-![1-0Logo.png](1-OTycoon/WebImages/1-0Logo.png)
+![1-0Logo.png](https://raw.githubusercontent.com/JoanValiente/1-OTycoon/master/WebImages/1-0Logo.png)
 
 Welcome to 1-O Tycoon wiki! On this page you will find all the important information you need to know abaout our game.
 
