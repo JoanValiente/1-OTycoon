@@ -16,13 +16,13 @@ Link to release here.
 
 David Lozano
 
-![Captura3](1-OTycoon/WebImages/Captura3.png)
+![Captura3](https://raw.githubusercontent.com/JoanValiente/1-OTycoon/master/WebImages/Captura3.png)
 
 [GitHub](https://github.com/DavidTheMaaster)
 
 Joan Valiente
 
-![Captura2](1-OTycoon/WebImages/Captura2.png)
+![Captura2](https://raw.githubusercontent.com/JoanValiente/1-OTycoon/master/WebImages/Captura2.png)
 
 [GitHub](https://github.com/JoanValiente/)
 
@@ -57,7 +57,7 @@ BlackBoard:
 
  - voteText:UIText
 
-![1104180560-VoterBT](1-OTycoon/WebImages/1104180560-VoterBT)
+![1104180560-VoterBT](https://raw.githubusercontent.com/JoanValiente/1-OTycoon/master/WebImages/1104180560-VoterBT.png)
 
 Fascists.
 
@@ -77,7 +77,7 @@ BlackBoard:
 
  - anim:Animator
 
-![2447627923-FascistBT](1-OTycoon/WebImages/2447627923-FascistBT)
+![2447627923-FascistBT](https://raw.githubusercontent.com/JoanValiente/1-OTycoon/master/WebImages/2447627923-FascistBT.png)
 
 
 Democracy Police.
@@ -100,7 +100,7 @@ BlackBoard:
 
  - max_speed:float
 
-![2269277412-GuardBT](1-OTycoon/WebImages/2269277412-GuardBT)
+![2269277412-GuardBT](https://raw.githubusercontent.com/JoanValiente/1-OTycoon/master/WebImages/2269277412-GuardBT.png)
 
 
 
