@@ -7,7 +7,20 @@ Welcome to 1-O Tycoon wiki! On this page you will find all the important informa
 Our game is based on the referendum that was organized in Catalonia on October 1st, 2017. The objective is to organize an electoral college so that citizens can vote while preventing rioters from stopping it.
 
 # Download the latest version of 1-0 Tycoon here
-Link to our repository here
+Link to release here.
+
+
+# Members
+
+David Lozano
+
+[GitHub](https://github.com/DavidTheMaaster)
+
+Joan Valiente
+
+![zsxdas](https://github.com/JoanValiente/1-OTycoon/blob/master/WebImages/Captura2.PNG)
+
+[GitHub](https://github.com/JoanValiente/)
 
 ### Types of agents
 
@@ -151,10 +164,6 @@ The Currency of the game are yellow ties. You gain yellow ties every time someon
 
 This yellow ties are used to buy new urns for the voters, security for the electoral college and farmers that will pick yellow ties automatically. 
 
-
-# Members
-David Lozano
-Joan Valiente
 
 # Game Controls
 
