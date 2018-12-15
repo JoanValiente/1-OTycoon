@@ -16,7 +16,7 @@ Link to release here.
 
 David Lozano
 
-![Captura3](https://raw.githubusercontent.com/JoanValiente/1-OTycoon/master/WebImages/Captura3.png)
+![Captura3](https://raw.githubusercontent.com/JoanValiente/1-OTycoon/master/WebImages/Captura3.PNG)
 
 [GitHub](https://github.com/DavidTheMaaster)
 
