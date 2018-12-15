@@ -15,7 +15,7 @@ In the game, there are different characters with different behavior.
 - Democracy police: They protect the ballot boxes and the voters of the fascist assailants. They path arround the area until they see a fascist. When that happens, the democracy police guard will pursue him until he catches him (and beat him) or until the fascist goes out.
 
 
-###Behaviour Trees.
+### Behaviour Trees.
 
 Voters.
 
@@ -98,7 +98,7 @@ To get voters to vote, you will need to place ballot boxes. These ballot boxes a
 - Urn: This urn is presided by an elder. Their rate for collecting votes is low, but it is efficient and never fails.
 - Advanced Urn: This urn works at maximum speed and efficiency due to the latest technologies. But it has a small chance that the system shuts down and stops working for a while.
 
-###Atomic Behaviours
+### Atomic Behaviours
 
 Voters 
 
@@ -140,7 +140,7 @@ Farmers
 
 -> Collects yellow ties
 
-###Player Influence
+### Player Influence
 
 The player can influence the way the game evolves. You should keep a balance in the electoral colleges to win the game. 
 
@@ -148,7 +148,7 @@ If the player spend all the money on Fascist Urns, it'll attract Fascist that wi
 
 If you have ballot boxes of each type, voters can vote at any time so you constantly gain yellow ties.
 
-###Money Source and costs
+### Money Source and costs
 
 The Currency of the game are yellow ties. You gain yellow ties every time someone get to vote. Also voters randomly drop yellow ties that you can pick by clicking on them. 
 
