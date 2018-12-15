@@ -1,6 +1,6 @@
 # 1-0 Tycoon
 
-![zsxdas](https://github.com/JoanValiente/1-OTycoon/blob/master/WebImages/1-0Logo.png)
+![1-0Logo.png](https://github.com/JoanValiente/1-OTycoon/blob/master/WebImages/1-0Logo.png)
 
 Welcome to 1-O Tycoon wiki! On this page you will find all the important information you need to know abaout our game.
 
@@ -16,13 +16,13 @@ Link to release here.
 
 David Lozano
 
-![zsxddsas](https://github.com/JoanValiente/1-OTycoon/blob/master/WebImages/Captura3.PNG)
+![Captura3](https://github.com/JoanValiente/1-OTycoon/blob/master/WebImages/Captura3.PNG)
 
 [GitHub](https://github.com/DavidTheMaaster)
 
 Joan Valiente
 
-![zsxdas](https://github.com/JoanValiente/1-OTycoon/blob/master/WebImages/Captura2.PNG)
+![Captura2](https://github.com/JoanValiente/1-OTycoon/blob/master/WebImages/Captura2.PNG)
 
 [GitHub](https://github.com/JoanValiente/)
 
@@ -57,7 +57,7 @@ BlackBoard:
 
  - voteText:UIText
 
-![asdf](https://github.com/JoanValiente/1-OTycoon/blob/master/WebImages/1104180560-VoterBT.png)
+![1104180560-VoterBT](https://github.com/JoanValiente/1-OTycoon/blob/master/WebImages/1104180560-VoterBT.png)
 
 Fascists.
 
@@ -77,7 +77,7 @@ BlackBoard:
 
  - anim:Animator
 
-![asdf](https://github.com/JoanValiente/1-OTycoon/blob/master/WebImages/2447627923-FascistBT.png)
+![2447627923-FascistBT](https://github.com/JoanValiente/1-OTycoon/blob/master/WebImages/2447627923-FascistBT.png)
 
 
 Democracy Police.
@@ -100,7 +100,7 @@ BlackBoard:
 
  - max_speed:float
 
-![aasaaf](https://github.com/JoanValiente/1-OTycoon/blob/master/WebImages/2269277412-GuardBT.png)
+![2269277412-GuardBT](https://github.com/JoanValiente/1-OTycoon/blob/master/WebImages/2269277412-GuardBT.png)
 
 
 
