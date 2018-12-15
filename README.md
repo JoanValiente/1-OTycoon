@@ -40,7 +40,8 @@ BlackBoard:
  - paper:AudioSource
 
  - voteText:UIText
-![VoterBT.png](https://bitbucket.org/repo/ngBnG9X/images/1104180560-VoterBT.png)
+
+VOTER BT.
 
 Fascists.
 
@@ -59,7 +60,8 @@ BlackBoard:
  - crack:UIText
 
  - anim:Animator
-![FascistBT.png](https://bitbucket.org/repo/ngBnG9X/images/2447627923-FascistBT.png)
+
+FASCIST BT.
 
 
 Democracy Police.
@@ -81,7 +83,8 @@ BlackBoard:
  - max_acceleration:float
 
  - max_speed:float
-![GuardBT.png](https://bitbucket.org/repo/ngBnG9X/images/2269277412-GuardBT.png)
+
+DEMOCRACY POLICE BT.
 
 
 
@@ -154,13 +157,11 @@ This yellow ties are used to buy new urns for the voters, security for the elect
 # Members
 David Lozano, Code and Pixel Art
 
-
 GitHub: 
 
 Joan Valiente, Code and Game Design
 
-
-GitHub:
+GitHub
 
 
 # Game Controls
