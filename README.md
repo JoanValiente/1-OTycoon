@@ -1,5 +1,7 @@
 # 1-0 Tycoon
 
+![zsxdas](https://github.com/JoanValiente/1-OTycoon/blob/master/WebImages/1-0Logo.png)
+
 Welcome to 1-O Tycoon wiki! On this page you will find all the important information you need to know abaout our game.
 
 ## About the Game
@@ -13,6 +15,8 @@ Link to release here.
 # Members
 
 David Lozano
+
+![zsxddsas](https://github.com/JoanValiente/1-OTycoon/blob/master/WebImages/Captura3.PNG)
 
 [GitHub](https://github.com/DavidTheMaaster)
 
@@ -53,7 +57,7 @@ BlackBoard:
 
  - voteText:UIText
 
-VOTER BT.
+![asdf](https://github.com/JoanValiente/1-OTycoon/blob/master/WebImages/1104180560-VoterBT.png)
 
 Fascists.
 
@@ -73,7 +77,7 @@ BlackBoard:
 
  - anim:Animator
 
-FASCIST BT.
+![asdf](https://github.com/JoanValiente/1-OTycoon/blob/master/WebImages/2447627923-FascistBT.png)
 
 
 Democracy Police.
@@ -96,7 +100,7 @@ BlackBoard:
 
  - max_speed:float
 
-DEMOCRACY POLICE BT.
+![aasaaf](https://github.com/JoanValiente/1-OTycoon/blob/master/WebImages/2269277412-GuardBT.png)
 
 
 
