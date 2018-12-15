@@ -22,7 +22,7 @@ David Lozano
 
 Joan Valiente
 
-![Captura2](https://raw.githubusercontent.com/JoanValiente/1-OTycoon/master/WebImages/Captura2.png)
+![Captura2](https://raw.githubusercontent.com/JoanValiente/1-OTycoon/master/WebImages/Captura2.PNG)
 
 [GitHub](https://github.com/JoanValiente/)
 
