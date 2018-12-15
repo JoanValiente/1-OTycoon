@@ -6,7 +6,6 @@ Welcome to 1-O Tycoon wiki! On this page you will find all the important informa
 
 Our game is based on the referendum that was organized in Catalonia on October 1st, 2017. The objective is to organize an electoral college so that citizens can vote while preventing rioters from stopping it.
 
-
 # Download the latest version of 1-0 Tycoon here
 Link to our repository here
 
@@ -92,9 +91,7 @@ Cooming Soon...
 
 - Riot police: Their objective will be to close the electoral college. If they succeed, the game will be over.
 
-- Yellow ties farmer: it collects automatically yellow ties for you.
-
-- Elders voters: They are like normal voters but slower. They drop more yellow ties but they are focused by the Riot police.
+- Roomba: it collects automatically yellow ties for you.
 
 
 ### Structures
@@ -106,6 +103,7 @@ To get voters to vote, you will need to place ballot boxes. These ballot boxes a
 - Advanced Urn: This urn works at maximum speed and efficiency due to the latest technologies. But it has a small chance that the system shuts down and stops working for a while.
 
 ### Atomic Behaviours
+
 
 ## Voters 
 
@@ -135,7 +133,7 @@ To get voters to vote, you will need to place ballot boxes. These ballot boxes a
 
 - Hit Fascists.
 
-Roombas
+## Roombas
 
 - Collects yellow ties (on an area).
 
@@ -155,13 +153,8 @@ This yellow ties are used to buy new urns for the voters, security for the elect
 
 
 # Members
-David Lozano, Code and Pixel Art
-
-GitHub: 
-
-Joan Valiente, Code and Game Design
-
-GitHub
+David Lozano
+Joan Valiente
 
 # Game Controls
 
@@ -169,7 +162,6 @@ GitHub
 - Click: Select.
 - Mouse(on window borders): Move camera.
 - WASD: Move camera.
-
 
 ## Disclaimer
 
@@ -187,7 +179,7 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
-THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 
 All files located in the node_modules and external directories are externally maintained libraries used by this software which have their own licenses; we recommend you read them, as their terms may differ from the terms above.
