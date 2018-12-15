@@ -163,7 +163,6 @@ Joan Valiente, Code and Game Design
 
 GitHub
 
-
 # Game Controls
 
 - Mouse: Navigate.
@@ -177,9 +176,9 @@ GitHub
 All resemblance to reality is purely coincidental. The game is made with sense of humor and is not a real representation of the events of that day.
 
 # LICENCE
-Copyright JS Foundation and other contributors, https://js.foundation/
+Copyright JS Foundation and other contributors
 
-This software consists of voluntary contributions made by many individuals. For exact contribution history, see the revision history available at https://github.com/JoanValiente/1-O/
+This software consists of voluntary contributions made by many individuals. For exact contribution history, see the revision history available at
 
 The following license applies to all parts of this software except as documented below:
 
