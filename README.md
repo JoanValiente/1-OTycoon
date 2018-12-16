@@ -4,15 +4,29 @@
 
 Welcome to 1-O Tycoon wiki! On this page you will find all the important information you need to know abaout our game.
 
-## About the Game
+# Index
+
+1. [About the Game](#about)
+2. [Download](#download)
+3. [Members](#members)
+4. [Type of agents](#agents)
+5. [Behaviour Trees](#bts)
+6. [Structures](#structures)
+7. [Atomic behaviours](#atomic)
+8. [Player influence](#influence)
+9. [Money source and costs](#costs)
+8. [Controls](#controlls)
+9. [Disclaimer](#disclaimer)
+
+# About the Game <a name="about"></a>
 
 Our game is based on the referendum that was organized in Catalonia on October 1st, 2017. The objective is to organize an electoral college so that citizens can vote while preventing rioters from stopping it.
 
-# Download the latest version of 1-0 Tycoon here
+# Download the latest version of 1-0 Tycoon here <a name="download"></a>
 Link to release here.
 
 
-# Members
+# Members <a name="members"></a>
 
 David Lozano
 
@@ -26,7 +40,7 @@ Joan Valiente
 
 [GitHub](https://github.com/JoanValiente/)
 
-### Types of agents
+### Types of agents <a name="agents"></a>
 
 In the game, there are different characters with different behavior.
 
@@ -35,7 +49,7 @@ In the game, there are different characters with different behavior.
 - Democracy police: They protect the ballot boxes and the voters of the fascist assailants. They path arround the area until they see a fascist. When that happens, the democracy police guard will pursue him until he catches him (and beat him) or until the fascist goes out.
 
 
-### Behaviour Trees.
+### Behaviour Trees. <a name="bts"></a>
 
 Voters.
 
@@ -111,7 +125,7 @@ Cooming Soon...
 - Roomba: it collects automatically yellow ties for you.
 
 
-### Structures
+### Structures <a name="structures"></a>
 
 To get voters to vote, you will need to place ballot boxes. These ballot boxes are bought using yellow ties that the voters themselves will drop once their vote is inserted in the ballot box. There are 3 types of urn, each with its advantages and disadvantages.
 
@@ -119,7 +133,7 @@ To get voters to vote, you will need to place ballot boxes. These ballot boxes a
 - Urn: This urn is presided by an elder. Their rate for collecting votes is low, but it is efficient and never fails.
 - Advanced Urn: This urn works at maximum speed and efficiency due to the latest technologies. But it has a small chance that the system shuts down and stops working for a while.
 
-### Atomic Behaviours
+### Atomic Behaviours <a name="atomic"></a>
 
 
 ## Voters 
@@ -154,7 +168,7 @@ To get voters to vote, you will need to place ballot boxes. These ballot boxes a
 
 - Collects yellow ties (on an area).
 
-### Player Influence
+### Player Influence <a name="influence"></a>
 
 The player can influence the way the game evolves. You should keep a balance in the electoral colleges to win the game. 
 
@@ -162,21 +176,21 @@ If the player spend all the money on Fascist Urns, it'll attract Fascist that wi
 
 If you have ballot boxes of each type, voters can vote at any time so you constantly gain yellow ties.
 
-### Money Source and costs
+### Money Source and costs <a name="costs"></a>
 
 The Currency of the game are yellow ties. You gain yellow ties every time someone get to vote. Also voters randomly drop yellow ties that you can pick by clicking on them. 
 
 This yellow ties are used to buy new urns for the voters, security for the electoral college and farmers that will pick yellow ties automatically. 
 
 
-# Game Controls
+# Game Controls <a name="controls"></a>
 
 - Mouse: Navigate.
 - Click: Select.
 - Mouse(on window borders): Move camera.
 - WASD: Move camera.
 
-## Disclaimer
+## Disclaimer <a name="disclaimer"></a>
 
 All resemblance to reality is purely coincidental. The game is made with sense of humor and is not a real representation of the events of that day.
 
