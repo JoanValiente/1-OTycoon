@@ -10,12 +10,20 @@ Welcome to 1-O Tycoon wiki! On this page you will find all the important informa
 2. [Download](#download)
 3. [Members](#members)
 4. [Type of agents](#agents)
+- [Voters](#voters)
+- [Fascists](#fascists)
+- [Democracy Police](#guards)
+- [Riot/Fascist police](#riots)
+- [Roombas](#roombas)
 5. [Behaviour Trees](#bts)
+- [Voters](#voterbt)
+- [Fascists](#fascistbt)
+- [Democracy Police](#guardbt)
 6. [Structures](#structures)
 7. [Atomic behaviours](#atomic)
 8. [Player influence](#influence)
 9. [Money source and costs](#costs)
-8. [Controls](#controlls)
+8. [Controls](#controls)
 9. [Disclaimer](#disclaimer)
 
 # About the Game <a name="about"></a>
@@ -44,14 +52,25 @@ Joan Valiente
 
 In the game, there are different characters with different behavior.
 
+<a name="voters"></a>
 - Voters: They are citizens who will go to the polls to exercise their right to vote. Once they insert their ballot in the ballot box, they will drop yellow ties that the player must collect and these will serve as currency to improve the electoral college. Once they have voted, they go out.
+
+<a name="fascists"></a>
 - Fascist: They look like normal citizens, but they will try to run into the room where urns are stored, and break them (player loses yellow ties). Once they have destroyed the urn, if the democracy police don't catch them, they go out.
+
+<a name="guards"></a>
 - Democracy police: They protect the ballot boxes and the voters of the fascist assailants. They path arround the area until they see a fascist. When that happens, the democracy police guard will pursue him until he catches him (and beat him) or until the fascist goes out.
+
+<a name="riots"></a>
+- Riot/Fascist police: They come in hordes and attack scarecrows(dummy) or structures (urns).
+
+<a name="roomba"></a>
+- Roomba: They collect yellow ribbons in their action area.
 
 
 ### Behaviour Trees. <a name="bts"></a>
 
-Voters.
+Voters. <a name="voterbt"></a>
 
 BlackBoard:
 
@@ -73,7 +92,7 @@ BlackBoard:
 
 ![1104180560-VoterBT](https://raw.githubusercontent.com/JoanValiente/1-OTycoon/master/WebImages/1104180560-VoterBT.png)
 
-Fascists.
+Fascists. <a name="fascistbt"></a>
 
 BlackBoard:
 
@@ -94,7 +113,7 @@ BlackBoard:
 ![2447627923-FascistBT](https://raw.githubusercontent.com/JoanValiente/1-OTycoon/master/WebImages/2447627923-FascistBT.png)
 
 
-Democracy Police.
+Democracy Police. <a name="guardbt"></a>
 
 BlackBoard:
 
