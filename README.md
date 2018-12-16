@@ -31,7 +31,7 @@ Welcome to 1-O Tycoon wiki! On this page you will find all the important informa
 Our game is based on the referendum that was organized in Catalonia on October 1st, 2017. The objective is to organize an electoral college so that citizens can vote while preventing rioters from stopping it.
 
 # Download the latest version of 1-0 Tycoon here <a name="download"></a>
-Link to release here.
+Link to release [here](https://github.com/JoanValiente/1-OTycoon/releases/tag/1.0).
 
 
 # Members <a name="members"></a>
